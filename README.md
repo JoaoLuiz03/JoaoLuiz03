@@ -55,7 +55,7 @@
 <details align="left">
   <summary></summary> 
  
-  - Icon Gol <a href="https://www.flaticon.com/free-icons/soccer" title="soccer icons">Soccer icons created by Freepik - Flaticon</a><br>
+  - Icon Bola <a href="https://www.flaticon.com/free-icons/soccer" title="soccer icons">Soccer icons created by Freepik - Flaticon</a><br>
   - modelo <a href="https://github.com/elidianaandrade/elidianaandrade/blob/main/README.md?plain=1">elidianandrade</a>
  
   <div align="right">Feito por <a href="https://github.com/JoaoLuiz03">João.</a></div>
